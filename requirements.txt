@@ -1,0 +1,4 @@
+CBFV
+mp_api
+pandas
+scikit-learn==1.5.0
